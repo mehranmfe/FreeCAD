@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "__config": "cpp",
+    "iosfwd": "cpp"
+  },
+  "editor.formatOnType": true,
+  "cmake.generator": "Ninja",
+  "cmake.configureSettings": {
+    "BUILD_WITH_CONDA:BOOL": "ON",
+    "BUILD_FEM_NETGEN:BOOL": "ON",
+    "FREECAD_USE_PYBIND11:BOOL": "ON",
+    "FREECAD_USE_EXTERNAL_SMESH:BOOL": "ON"
+  }
+}

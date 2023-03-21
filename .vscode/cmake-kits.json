@@ -1,0 +1,10 @@
+[
+  {
+    "name": "FreeCAD Clang",
+    "compilers": {
+      "C": "${workspaceFolder}/.conda/freecad/bin/cc",
+      "CXX": "${workspaceFolder}/.conda/freecad/bin/c++"
+    },
+    "environmentSetupScript": "${workspaceFolder}/.vscode/env.sh"
+  }
+]
