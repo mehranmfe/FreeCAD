@@ -1,0 +1,9 @@
+name: freecad
+channels:
+- conda-forge
+- oursland
+dependencies:
+- freecad-devel
+- pip
+- pip:
+  - ptvsd==4.3.2

@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "FreeCAD C++",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": [],
+      "compilerPath": "${workspaceFolder}/.conda/freecad/bin/c++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "configurationProvider": "ms-vscode.cmake-tools"
+    }
+  ],
+  "version": 4
+}
